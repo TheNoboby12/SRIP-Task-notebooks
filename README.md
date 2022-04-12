@@ -22,9 +22,10 @@ to do only one task partially, do it very well to maximize your chances of selec
 over mail or any other medium. You are allowed to make all the required assumptions on
 your own but mention them clearly.
 
+Problem statement: 
 There were four task given to which i was able to complete Two
 
-i have completed 
+I have completed following task
 - Task 1 : Animate Bivariate Normal Distribution
-- Task 4 : Create Neural Network with two hidden Layer based on MNIST.
+- Task 3 : Create Neural Network with two hidden Layer based on MNIST.
 
